@@ -1,0 +1,25 @@
+{
+    "name": "code-challenge-excel",
+    "version": "1.0.0",
+    "description": "Coding challenge for whitebox",
+    "main": "src/index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "ts-node ./src/index.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/whitebox-co/code-challenge-excel.git"
+    },
+    "author": "mtrent6",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/whitebox-co/code-challenge-excel/issues"
+    },
+    "homepage": "https://github.com/whitebox-co/code-challenge-excel#readme",
+    "devDependencies": {
+        "@types/node": "^16.11.8",
+        "ts-node": "^10.4.0",
+        "typescript": "^4.5.2"
+    }
+}
